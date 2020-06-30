@@ -12,7 +12,7 @@
 // and the revision number is incremented when minor bugs are fixed.
 
 // for Name Space
-var Orb = Orb || {
+export var Orb = Orb || {
   VERSION: "2.3.1 (20200124)",
   AUTHOR: "Isana Kashiwai",
   LICENSE: "MIT"
